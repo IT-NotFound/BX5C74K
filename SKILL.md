@@ -18,7 +18,7 @@ metadata:
 
 &#x20; dumate:
 
-&#x20;   displayName: "NDU0MjEyNjIzOA=="
+&#x20;   displayName: "MjUzNDE2Mzg2Mg=="
 
 &#x20;   summary: "发送含 BX5C74K 的消息后返回解析密码。"
 
